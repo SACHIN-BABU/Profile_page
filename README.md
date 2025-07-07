@@ -59,7 +59,7 @@ Focus on semantic HTML and readability.
     </section>
 
     <section>
-        <img src="sachin.jpg" alt="Profile Image of Jane Doe" width="150" height="150">
+        <img src="sachin.jpg" alt="Profile Image of Sachin" width="150" height="150">
     </section>
 
     <hr>
