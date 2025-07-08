@@ -1,5 +1,5 @@
 # Profile Page
-## Date:07-07-2025
+## Date:08-07-2025
 ## Sachin B
 ## 212222060207
 ## Objective:
@@ -49,6 +49,7 @@ Focus on semantic HTML and readability.
 <html>
 <head>
     <title>My Profile</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -67,16 +68,48 @@ Focus on semantic HTML and readability.
     <section>
         <h2>About Me</h2>
         <p>
-            Hello! I'm Sachin, a passionate student and aspiring web developer.I love coding, exploring new technologies, and building  web projects. 
+            Hello! I'm Sachin, a passionate student and aspiring web developer. I love coding, exploring new technologies, and building web projects.
         </p>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Electronis And Communication</strong><br>
+               Saveetha Engineering College 
+            </li>
+            <li><strong>Higher Secondary Certificate (HSC)</strong><br>
+                Mary  School
+            </li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>Responsive Web Design</li>
+            <li>Git & GitHub</li>
+            <li>Python (Basics)</li>
+            <li>Teamwork & Communication</li>
+        </ul>
     </section>
 
 </body>
 </html>
+
 ```
 ## Output:
-![Screenshot 2025-07-07 222209](https://github.com/user-attachments/assets/b77b45a3-fb71-47f9-a944-9c6af6d67fa0)
+![Screenshot 2025-07-08 114303](https://github.com/user-attachments/assets/b9a66143-5d57-446f-b563-e5b39fb0c94f)
+![Screenshot 2025-07-08 114316](https://github.com/user-attachments/assets/e46582ee-e8f1-40b8-896f-bcce74587089)
+![Screenshot 2025-07-08 114326](https://github.com/user-attachments/assets/b14f4c40-68e6-42cf-b203-8d4009db1f75)
+
+
 
 
 ## Result:
+
 A simple Profile Page using HTML that displays a user's profile image, name, headings, and a short bio, suitable for personal or academic purposes is designed successfully.
